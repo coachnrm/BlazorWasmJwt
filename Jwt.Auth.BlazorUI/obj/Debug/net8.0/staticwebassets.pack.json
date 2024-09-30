@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/home/Desktop/BlazorWasmJwt/Jwt.Auth.BlazorUI/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/home/Desktop/BlazorWasmJwt/Jwt.Auth.BlazorUI/obj/Debug/net8.0/compressed/mif8su4pqh.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/home/Desktop/BlazorWasmJwt/Jwt.Auth.BlazorUI/obj/Debug/net8.0/scopedcss/bundle/Jwt.Auth.BlazorUI.styles.css",
+      "PackagePath": "staticwebassets/Jwt.Auth.BlazorUI.styles.css"
+    },
+    {
+      "Id": "/Users/home/Desktop/BlazorWasmJwt/Jwt.Auth.BlazorUI/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/home/Desktop/BlazorWasmJwt/Jwt.Auth.BlazorUI/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/home/Desktop/BlazorWasmJwt/Jwt.Auth.BlazorUI/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/home/Desktop/BlazorWasmJwt/Jwt.Auth.BlazorUI/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/home/Desktop/BlazorWasmJwt/Jwt.Auth.BlazorUI/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/home/Desktop/BlazorWasmJwt/Jwt.Auth.BlazorUI/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/home/Desktop/BlazorWasmJwt/Jwt.Auth.BlazorUI/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Jwt.Auth.BlazorUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Jwt.Auth.BlazorUI.props",
+      "PackagePath": "build\\Jwt.Auth.BlazorUI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Jwt.Auth.BlazorUI.props",
+      "PackagePath": "buildMultiTargeting\\Jwt.Auth.BlazorUI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Jwt.Auth.BlazorUI.props",
+      "PackagePath": "buildTransitive\\Jwt.Auth.BlazorUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
